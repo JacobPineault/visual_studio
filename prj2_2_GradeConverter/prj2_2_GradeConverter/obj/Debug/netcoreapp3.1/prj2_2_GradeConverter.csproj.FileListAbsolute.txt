@@ -1,0 +1,11 @@
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\obj\Debug\netcoreapp3.1\prj2_2_GradeConverter.csprojAssemblyReference.cache
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\obj\Debug\netcoreapp3.1\prj2_2_GradeConverter.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\obj\Debug\netcoreapp3.1\prj2_2_GradeConverter.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.exe
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.deps.json
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.dll
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\bin\Debug\netcoreapp3.1\prj2_2_GradeConverter.pdb
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\obj\Debug\netcoreapp3.1\prj2_2_GradeConverter.dll
+C:\repos-202003jbc\c-sharp-instruction\prj2_2_GradeConverter\prj2_2_GradeConverter\obj\Debug\netcoreapp3.1\prj2_2_GradeConverter.pdb

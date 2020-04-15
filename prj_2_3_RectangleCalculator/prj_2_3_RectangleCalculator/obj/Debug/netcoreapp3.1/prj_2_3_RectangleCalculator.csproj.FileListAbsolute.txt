@@ -1,0 +1,10 @@
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.exe
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.deps.json
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.runtimeconfig.json
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.runtimeconfig.dev.json
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.dll
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\bin\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.pdb
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\obj\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.AssemblyInfoInputs.cache
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\obj\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.AssemblyInfo.cs
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\obj\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.dll
+C:\repos-202003jbc\c-sharp-instruction\prj_2_3_RectangleCalculator\prj_2_3_RectangleCalculator\obj\Debug\netcoreapp3.1\prj_2_3_RectangleCalculator.pdb
