@@ -10,8 +10,6 @@ namespace ch4_tip_calculator {
             Console.WriteLine("Tip Calculator");
 
             double costOfMeal;
-            double tipAmount;
-            double totalCost;
             string choice = "y";
 
             while (!choice.Contains("n")) { 
@@ -38,6 +36,5 @@ namespace ch4_tip_calculator {
             Console.WriteLine("Total Cost: " + totalCost.ToString("C"));
             Console.WriteLine();
         }
-
     }
 }
