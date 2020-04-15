@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch3_interest_calculator", "ch3_interest_calculator\ch3_interest_calculator.csproj", "{268E05CE-385A-4EA2-BE55-DF7F7F92914B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268E05CE-385A-4EA2-BE55-DF7F7F92914B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268E05CE-385A-4EA2-BE55-DF7F7F92914B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268E05CE-385A-4EA2-BE55-DF7F7F92914B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268E05CE-385A-4EA2-BE55-DF7F7F92914B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BCB15E-FC9F-4067-97B5-D52A8E9A82FF}
+	EndGlobalSection
+EndGlobal
